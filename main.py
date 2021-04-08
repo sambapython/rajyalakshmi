@@ -7,6 +7,6 @@ print(a.add(100,200))
 print(b.person())
 print("main ended")
 """
-import a
+import a,b
 print(a.x)
-print(a.hidden1)
+print(b.name)
