@@ -1,0 +1,5 @@
+modules written by you.. those are there in your local
+modules written by python team: these will be available in pypi.org
+modules written by other developers: these most probably available in git hub
+moduels writtn by others, certified by python team: available in pypi.org
+modules added to python basic installation
