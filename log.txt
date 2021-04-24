@@ -1,0 +1,17 @@
+INFO:root:Info message
+WARNING:root:warning message
+ERROR:root:error message
+INFO:root:programstarted
+INFO:root:entered a vlaue
+INFO:root:enterd b value
+INFO:root:a nd b converted successfully
+ERROR:root:ERROR: division by zero
+INFO:root:program ended
+INFO:root:programstarted
+INFO:root:entered a vlaue
+INFO:root:enterd b value
+DEBUG:root:a=12, b=2
+INFO:root:a nd b converted successfully
+DEBUG:root:res=6.0
+ERROR:root:ERROR: division by zero
+INFO:root:program ended
